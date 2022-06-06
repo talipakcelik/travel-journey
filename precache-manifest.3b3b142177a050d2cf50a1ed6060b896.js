@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e414932e38f63104146d",
-    "url": "/travel-journey/static/css/main.3257c1c5.chunk.css"
+    "revision": "67cacbbfd127297e3e0b",
+    "url": "/travel-journey/static/css/main.28b43524.chunk.css"
   },
   {
-    "revision": "e414932e38f63104146d",
-    "url": "/travel-journey/static/js/main.e414932e.chunk.js"
+    "revision": "67cacbbfd127297e3e0b",
+    "url": "/travel-journey/static/js/main.67cacbbf.chunk.js"
   },
   {
     "revision": "d81810a4e64de93cb072",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/travel-journey/static/js/runtime~main.3c37cc8f.js"
   },
   {
-    "revision": "ac0a17c319b21bda4877528793f69ac4",
+    "revision": "2f79d2a7af8b4b19352a2e2000af916f",
     "url": "/travel-journey/index.html"
   }
 ];
